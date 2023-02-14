@@ -1,8 +1,8 @@
 <div align = "center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=100&fontColor=555C78&fontSize=30&text=Welcome%20to%20529539's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=100&fontColor=555C78&fontSize=27&text=Welcome%20to%20529539's%20GitHub)
 
-<h3>☘️ 이서진 🎀</h3><br/>
+<h3>☁️ 이서진 ☁️</h3><br/>
 이화여자대학교 엘텍공과대학 소프트웨어학부 컴퓨터공학전공 21학번<br/>
 <br/>
   
@@ -17,16 +17,12 @@
    </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F529539&count_bg=%239ABDD3&title_bg=%2350739E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dltjwls0529@gmail.com)](mailto:dltjwls0529@gmail.com)
 <img src="https://img.shields.io/badge/%231067-5865F2?style=flat&logo=Discord&logoColor=white"/>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/529.539)](mailto:dltjwls0529@gmail.com)
  
-  <br/>
-﹏﹏﹏﹏﹏﹏﹏
-
 <br/><br/>
  
 <h3>💻 기술 스택 💻</h3>
@@ -55,9 +51,12 @@
 <h3 align="center">💡 가장 자주 사용한 언어 💡</h3>
 <p align="center">
   <a href="https://github.com/529539">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529539&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&exclude_repo=10th-Todo-publishing,10th-SINCHONTHON-front" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529539&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&exclude_repo=10th-Todo-publishing,10th-SINCHONTHON-front,10th-HERETHON" />
   </a>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=100&section=footer)
+ <br/><br/>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F529539&count_bg=%239ABDD3&title_bg=%2350739E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=90&section=footer)
   </div>
