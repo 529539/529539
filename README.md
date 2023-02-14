@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=100&fontColor=555C78&fontSize=30&text=Welcome%20to%20529539's%20GitHub)
 
-<h3>이서진</h3><br/>
+<h3>☘️ 이서진 🎀</h3><br/>
 이화여자대학교 엘텍공과대학 소프트웨어학부 컴퓨터공학전공 21학번<br/>
 <br/>
   
