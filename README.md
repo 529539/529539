@@ -55,7 +55,7 @@
 <h3 align="center">💡 가장 자주 사용한 언어 💡</h3>
 <p align="center">
   <a href="https://github.com/529539">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529539&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&exclude_repo=10th-Todo-publishing" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529539&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&exclude_repo=10th-Todo-publishing,10th-SINCHONTHON-front" />
   </a>
 </p>
 
