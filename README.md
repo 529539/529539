@@ -9,6 +9,10 @@
 <br/>
   
   <table border="" cellspacing="0" cellpadding="0" width="100%">
+   <tr width="100%">
+        <td align="center">2023.03 ~</td>
+        <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 프론트엔드 리드 개발자</td>
+    </tr>
     <tr width="100%">
         <td align="center">2023.02 ~</td>
         <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 대표, 프론트엔드 운영진</td>
@@ -31,10 +35,15 @@
  <h3>🖼️ Recent Project 🖼️</h3>
    <table border="" cellspacing="0" cellpadding="0" width="100%">
     <tr width="100%">
+     <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤</b></a></td>
+     <td align="left">2023.02 프론트엔드 개발 참여, <b>동상 수상</b></td>
+     <td align="center"><a href="https://github.com/MooDrive">Organization</a></td>
+   </tr>
+    <tr width="100%">
      <td align="center"><a href="https://cheer-charm.swygbro.com"><b>응원이 부적해</b></a></td>
-        <td align="left">2023.01 ~ 2023.02 프론트엔드 개발 참여</td>
-        <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
-    </tr>
+     <td align="left">2023.01 ~ 2023.02 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
+   </tr>
 </table>
  
  <br/>
