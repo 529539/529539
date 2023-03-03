@@ -11,15 +11,15 @@
   <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
         <td align="center">2023.03 ~</td>
-        <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 프론트엔드 리드 개발자</td>
+        <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 <b>프론트엔드 리드 개발자</b></td>
     </tr>
     <tr width="100%">
         <td align="center">2023.02 ~</td>
-        <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 대표, 프론트엔드 운영진</td>
+        <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 <b>대표, 프론트엔드 운영진</b></td>
     </tr>
     <tr width="100%">
       <td  align="center">2022.03 ~ 2023.01 </td>
-      <td  align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 10기 아기사자 프론트엔드</td>
+      <td  align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 10기 아기사자 <b>프론트엔드</b></td>
    </tr>
 </table>
 
@@ -30,7 +30,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/529.539)](https://www.instagram.com/529.539)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@529539)](https://velog.io/@529539)
  
-<br/><br/>
+<br/>
  
  <h3>🖼️ Recent Project 🖼️</h3>
    <table border="" cellspacing="0" cellpadding="0" width="100%">
@@ -41,7 +41,7 @@
    </tr>
     <tr width="100%">
      <td align="center"><a href="https://cheer-charm.swygbro.com"><b>응원이 부적해</b></a></td>
-     <td align="left">2023.01 ~ 2023.02 프론트엔드 개발 참여</td>
+     <td align="left">2023.01~02 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
    </tr>
 </table>
@@ -66,7 +66,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 <br/><br/>
-
+ 
+<!--
 <h3 align="center">📊 Most Used Languages 📊</h3>
 <p align="center">
   <a href="https://github.com/529539">
@@ -74,6 +75,7 @@
   </a>
 </p>
  <br/><br/>
+-->
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F529539&count_bg=%239ABDD3&title_bg=%2350739E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
