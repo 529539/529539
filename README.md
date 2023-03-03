@@ -11,15 +11,15 @@
   <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
         <td align="center">2023.03 ~</td>
-        <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 <b>프론트엔드 리드 개발자</b></td>
+        <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 프론트엔드 리드</td>
     </tr>
     <tr width="100%">
         <td align="center">2023.02 ~</td>
-        <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 <b>대표, 프론트엔드 운영진</b></td>
+        <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 대표, 프론트엔드 운영진</td>
     </tr>
     <tr width="100%">
       <td  align="center">2022.03 ~ 2023.01 </td>
-      <td  align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 10기 아기사자 <b>프론트엔드</b></td>
+      <td  align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 10기 아기사자 프론트엔드</td>
    </tr>
 </table>
 
