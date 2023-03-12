@@ -37,7 +37,7 @@
     <tr width="100%">
      <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤</b></a></td>
      <td align="left">2023.02 프론트엔드 개발 참여, <b>동상 수상</b></td>
-     <td align="center"><a href="https://github.com/MooDrive">Organization</a></td>
+     <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front.git">Front-end Repository</a></td>
    </tr>
     <tr width="100%">
      <td align="center"><a href="https://cheer-charm.swygbro.com"><b>응원이 부적해</b></a></td>
