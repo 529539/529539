@@ -1,6 +1,6 @@
 <div align = "center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=120&fontColor=555C78&fontSize=27&text=Welcome%20to%20529539's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=120&fontColor=ffffff&fontSize=27&text=Welcome%20to%20529539's%20GitHub)
 
 <h3>☁️ 이서진 ☁️</h3><br/>
  
