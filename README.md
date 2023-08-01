@@ -42,7 +42,7 @@
    <tr width="100%">
      <td align="center"><a href="https://"><b>2023 관광데이터 활용 공모전 : KUDDY</b></a></td>
      <td align="left">2023.08~09 프론트엔드 개발 참여</td>
-     <td align="center"><a href="https://github.com/EFUB-EDAY/EDAY-FRONT">Front-end Repository</a></td>
+     <td align="center"><a href="https://github.com/KUDDY-2023/KUDDY-front">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
      <td align="center"><a href="https://eday-front.vercel.app"><b>E-day</b></a></td>
