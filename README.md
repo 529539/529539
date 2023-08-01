@@ -66,7 +66,7 @@
    </tr>
    <tr width="100%">
      <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤 : MooDrive</b></a></td>
-     <td align="left">2023.02 UI 디자인/프론트엔드 개발, 동상 수상</td>
+     <td align="left">2023.02 UI 디자인/프론트엔드 개발</td>
      <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
