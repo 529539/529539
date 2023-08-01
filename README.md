@@ -32,7 +32,7 @@
  
 <br/>
  
- <h3>🖼️ Recent Project 🖼️</h3>
+ <h3>🖼️ Project 🖼️</h3>
  <table border="" cellspacing="0" cellpadding="0" width="100%">
     <tr width="100%">
      <td align="center"><a href="https://eday-front.vercel.app"><b>E-day</b></a></td>
@@ -45,7 +45,7 @@
      <td align="center"><a href="https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="center"><a href="https://2023-ewha-festival.vercel.app"><b>2023 이화여대 대동제</b></a></td>
+     <td align="center"><a href="https://2023-ewha-festival.vercel.app"><b>2023 이화여대 대동제 이웃</b></a></td>
      <td align="left">2023.04~05 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-11th-Ewha-Festival-Front">Front-end Repository</a></td>
    </tr>
@@ -59,10 +59,15 @@
      <td align="left">2023.02 프론트엔드 개발, 동상 수상</td>
      <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front.git">Front-end Repository</a></td>
    </tr>
-    <tr width="100%">
+   <tr width="100%">
      <td align="center"><a href="https://cheer-charm.swygbro.com"><b>응원이 부적해</b></a></td>
      <td align="left">2023.01~02 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
+   </tr>
+     <tr width="100%">
+     <td align="center"><a href="https://rewha.swygbro.com"><b>2022 이화여대 대동제 Re:wha</b></a></td>
+     <td align="left">2022.09 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-10th-Ewha-Festival-Front">Front-end Repository</a></td>
    </tr>
 </table>
  
@@ -87,7 +92,7 @@
 
 <br/><br/>
  
-
+<!--
 <h3 align="center">📊 Most Used Languages 📊</h3>
 <p align="center">
   <a href="https://github.com/529539">
@@ -95,7 +100,7 @@
   </a>
 </p>
  <br/><br/>
- 
+ -->
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F529539&count_bg=%239ABDD3&title_bg=%2350739E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
