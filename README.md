@@ -34,13 +34,23 @@
  
  <h3>🖼️ Project 🖼️</h3>
  <table border="" cellspacing="0" cellpadding="0" width="100%">
-    <tr width="100%">
+   <!--<tr width="100%">
+     <td align="center"><a href="https://"><b>졸업 프로젝트</b></a></td>
+     <td align="left">2023.09~2024.06 </td>
+     <td align="center"><a href="">Repository</a></td>
+   </tr>-->
+   <tr width="100%">
+     <td align="center"><a href="https://"><b>2023 관광데이터 활용 공모전 : KUDDY</b></a></td>
+     <td align="left">2023.08~09 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/EFUB-EDAY/EDAY-FRONT">Front-end Repository</a></td>
+   </tr>
+   <tr width="100%">
      <td align="center"><a href="https://eday-front.vercel.app"><b>E-day</b></a></td>
      <td align="left">2023.07~08 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/EFUB-EDAY/EDAY-FRONT">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="center"><a href="https://efub-3-lead-1-front.vercel.app"><b>하나투어 클론코딩</b></a></td>
+     <td align="center"><a href="https://efub-3-lead-1-front.vercel.app"><b>하나투어 리디자인/클론코딩</b></a></td>
      <td align="left">2023.05 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT">Front-end Repository</a></td>
    </tr>
@@ -51,20 +61,20 @@
    </tr>
    <tr width="100%">
      <td align="center"><a href="https://gpt-readme.swygbro.com/"><b>리드미 생성기</b></a></td>
-     <td align="left">2023.03 개발</td>
+     <td align="left">2023.03 기획/디자인/개발</td>
      <td align="center"><a href="https://github.com/529539/SWYDY-03">Repository</a></td>
    </tr>
-    <tr width="100%">
-     <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤</b></a></td>
-     <td align="left">2023.02 프론트엔드 개발, 동상 수상</td>
-     <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front.git">Front-end Repository</a></td>
+   <tr width="100%">
+     <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤 : MooDrive</b></a></td>
+     <td align="left">2023.02 UI 디자인/프론트엔드 개발, 동상 수상</td>
+     <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
      <td align="center"><a href="https://cheer-charm.swygbro.com"><b>응원이 부적해</b></a></td>
      <td align="left">2023.01~02 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
    </tr>
-     <tr width="100%">
+   <tr width="100%">
      <td align="center"><a href="https://rewha.swygbro.com"><b>2022 이화여대 대동제 Re:wha</b></a></td>
      <td align="left">2022.09 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-10th-Ewha-Festival-Front">Front-end Repository</a></td>
