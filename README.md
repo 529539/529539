@@ -1,8 +1,8 @@
 <div align = "center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=120&fontColor=ffffff&fontSize=27&text=Welcome%20to%20529539's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9DBD83,100:638F80&height=120&fontColor=ffffff&fontSize=27&text=Welcome%20to%20529539's%20GitHub)
 
-<h3>☁️ 이서진 ☁️</h3><br/>
+<h3>☘️ 이서진 ☘️</h3><br/>
  
 **이화여자대학교 엘텍공과대학 소프트웨어학부 컴퓨터공학전공 21학번**
  <br/>
@@ -25,18 +25,38 @@
 
 <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dltjwls0529@gmail.com)](mailto:dltjwls0529@gmail.com)
-<img src="https://img.shields.io/badge/%231067-5865F2?style=flat&logo=Discord&logoColor=white"/>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/529.539)](https://www.instagram.com/529.539)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@529539)](https://velog.io/@529539)
+[![Gmail Badge](https://img.shields.io/badge/dltjwls0529-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dltjwls0529@gmail.com)](mailto:dltjwls0529@gmail.com)
+<img src="https://img.shields.io/badge/529539-5865F2?style=flat&logo=Discord&logoColor=white"/>
+[![Instagram Badge](https://img.shields.io/badge/%40529.539-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/529.539)](https://www.instagram.com/529.539)
+[![Velog Badge](https://img.shields.io/badge/%40529539-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@529539)](https://velog.io/@529539)
  
 <br/>
  
  <h3>🖼️ Recent Project 🖼️</h3>
-   <table border="" cellspacing="0" cellpadding="0" width="100%">
+ <table border="" cellspacing="0" cellpadding="0" width="100%">
+    <tr width="100%">
+     <td align="center"><a href="https://eday-front.vercel.app"><b>E-day</b></a></td>
+     <td align="left">2023.07~08 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/EFUB-EDAY/EDAY-FRONT">Front-end Repository</a></td>
+   </tr>
+   <tr width="100%">
+     <td align="center"><a href="https://efub-3-lead-1-front.vercel.app"><b>하나투어 클론코딩</b></a></td>
+     <td align="left">2023.05 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT">Front-end Repository</a></td>
+   </tr>
+   <tr width="100%">
+     <td align="center"><a href="https://2023-ewha-festival.vercel.app"><b>2023 이화여대 대동제</b></a></td>
+     <td align="left">2023.04~05 프론트엔드 개발 참여</td>
+     <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-11th-Ewha-Festival-Front">Front-end Repository</a></td>
+   </tr>
+   <tr width="100%">
+     <td align="center"><a href="https://gpt-readme.swygbro.com/"><b>리드미 생성기</b></a></td>
+     <td align="left">2023.03 개발</td>
+     <td align="center"><a href="https://github.com/529539/SWYDY-03">Repository</a></td>
+   </tr>
     <tr width="100%">
      <td align="center"><a href="https://hyundai-hackathon-9.vercel.app/"><b>현대모비스 Mobility SW 해커톤</b></a></td>
-     <td align="left">2023.02 프론트엔드 개발 참여, <b>동상 수상</b></td>
+     <td align="left">2023.02 프론트엔드 개발, 동상 수상</td>
      <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front.git">Front-end Repository</a></td>
    </tr>
     <tr width="100%">
@@ -44,19 +64,14 @@
      <td align="left">2023.01~02 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/CheerCharm/CheerCharm_Front">Front-end Repository</a></td>
    </tr>
-    <tr width="100%">
-     <td align="center"><a href="https://gpt-readme.swygbro.com/"><b>리드미 생성기</b></a></td>
-     <td align="left">2023.03 프론트엔드 개발</td>
-     <td align="center"><a href="https://github.com/529539/SWYDY-03">Repository</a></td>
-   </tr>
 </table>
  
  <br/>
 <h3>💻 Tech Stack 💻</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
@@ -64,15 +79,15 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=Flask&logoColor=white"/>
-  <br>
-  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 <br/><br/>
  
-<!--
+
 <h3 align="center">📊 Most Used Languages 📊</h3>
 <p align="center">
   <a href="https://github.com/529539">
@@ -80,9 +95,9 @@
   </a>
 </p>
  <br/><br/>
--->
+ 
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F529539&count_bg=%239ABDD3&title_bg=%2350739E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:757DC5,100:C5EEF6&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9DBD83,100:638F80&height=90&section=footer)
   </div>
