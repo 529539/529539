@@ -10,11 +10,11 @@
   
   <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
-        <td align="center">2023.03 ~</td>
+        <td align="center">2023.03 ~ 2023.12</td>
         <td align="left"><a href="https://github.com/EFUB">이화여대 EFUB</a> 3기 프론트엔드 리드</td>
     </tr>
     <tr width="100%">
-        <td align="center">2023.02 ~</td>
+        <td align="center">2023.02 ~ 2024.01</td>
         <td align="left"><a href="https://github.com/EWHA-LIKELION">이화여대 멋쟁이사자처럼</a> 11기 대표, 프론트엔드 운영진</td>
     </tr>
     <tr width="100%">
@@ -27,18 +27,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/dltjwls0529-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dltjwls0529@gmail.com)](mailto:dltjwls0529@gmail.com)
 <img src="https://img.shields.io/badge/529539-5865F2?style=flat&logo=Discord&logoColor=white"/>
-[![Instagram Badge](https://img.shields.io/badge/%40529.539-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/529.539)](https://www.instagram.com/529.539)
 [![Velog Badge](https://img.shields.io/badge/%40529539-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@529539)](https://velog.io/@529539)
  
 <br/>
- 
+
+<!--
  <h3>🖼️ Project 🖼️</h3>
  <table border="" cellspacing="0" cellpadding="0" width="100%">
-   <!--<tr width="100%">
-     <td align="center"><a href="https://"><b>졸업 프로젝트</b></a></td>
-     <td align="left">2023.09~2024.06 </td>
-     <td align="center"><a href="">Repository</a></td>
-   </tr>-->
    <tr width="100%">
      <td align="center"><a href="https://kuddy.co.kr"><b>2023 관광데이터 활용 공모전 : KUDDY</b></a></td>
      <td align="left">2023.08~09 프론트엔드 개발 참여</td>
@@ -80,6 +75,7 @@
      <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-10th-Ewha-Festival-Front">Front-end Repository</a></td>
    </tr>
 </table>
+-->
  
  <br/>
 <h3>💻 Tech Stack 💻</h3>
