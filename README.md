@@ -88,17 +88,17 @@
      <td align="center"><a href="https://github.com/EFUB-EDAY/EDAY-FRONT">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="left"><a href="https://2023-ewha-festival.vercel.app"><b>2023 이화여대 대동제 이웃</b></a></td>
+     <td align="left"><a href="https://smilewha2023.swygbro.com"><b>2023 이화여대 대동제 이웃</b></a></td>
      <td align="left">2023.04~05 프론트엔드 개발 참여</td>
      <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-11th-Ewha-Festival-Front">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="left"><a href="https://gpt-readme.swygbro.com/"><b>리드미 생성기</b></a></td>
+     <td align="left"><a href="https://gpt-readme.swygbro.com"><b>리드미 생성기</b></a></td>
      <td align="left">2023.03 기획/디자인/개발</td>
      <td align="center"><a href="https://github.com/529539/SWYDY-03">Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="left"><a href="https://hyundai-hackathon-9.vercel.app/"><b>MooDrive</b></a><div>2023 현대모비스 Mobility SW 해커톤 동상 수상</div></td>
+     <td align="left"><a href="https://hyundai-hackathon-9.vercel.app"><b>MooDrive</b></a><div>2023 현대모비스 Mobility SW 해커톤 동상 수상</div></td>
      <td align="left">2023.02 UI 디자인/프론트엔드 개발</td>
      <td align="center"><a href="https://github.com/529539/HyundaiMobis-MobiltySW-Front">Front-end Repository</a></td>
    </tr>
@@ -113,9 +113,9 @@
      <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-10th-Ewha-Festival-Front">Front-end Repository</a></td>
    </tr>
    <tr width="100%">
-     <td align="left"><a href="https://rewha.swygbro.com"><b>Over the OTT</b></a><div>멋쟁이사자처럼 10기 중앙해커톤 최우수상 수상</div></td>
+     <td align="left"><a href="https://"><b>Over the OTT</b></a><div>멋쟁이사자처럼 10기 중앙해커톤 최우수상 수상</div></td>
      <td align="left">2022.07-08 프론트엔드 개발 참여</td>
-     <td align="center"><a href="https://github.com/EWHA-LIKELION/Re-10th-Ewha-Festival-Front">Front-end Repository</a></td>
+     <td align="center"><a href="https://github.com/Over-the-OTT/Over-the-OTT-front">Front-end Repository</a></td>
    </tr>
  </table>
 
