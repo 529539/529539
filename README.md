@@ -58,7 +58,7 @@
 
  <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
-     <td align="left"><a href="https://"><b>iterview</b></a><div>졸업 프로젝트 (캡스톤디자인)</div></td>
+     <td align="left"><a href="https://iterview.vercel.app"><b>iterview</b></a><div>졸업 프로젝트 (캡스톤디자인)</div></td>
      <td align="left">23-2, 24-1 UI 디자인/프론트엔드 개발</td>
      <td align="center"><a href="https://github.com/TEAM-ITERVIEW/CLIENT">Front-end Repository</a></td>
    </tr>
